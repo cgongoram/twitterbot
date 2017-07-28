@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "uplifted-triode-168720",
+  "private_key_id": "fe9c6f8b40a50cb1eb6a3dc49cfca4eee3333e0c",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQC1H5ZWC99Ztk6l\nLGFiy1d4Hvd8l4ey/UB/YP1EwKQEbd4WgiQi+n3PNgUL5JAcvh9J6UHvWlARcvnM\naoAJuUO/1X7ahdB62gSuT5z10++82TMLqWN+Dnc6AVM3+qmdYoEXYO/luhS06H4n\nldjWa5V2CnxFUh9hpBHnUFq3kjqZo5kTgDwXSmueCujc18wkrKWUP3f59qWk31MV\noiknlcpdV4ixyZt0r92sW0qyBEVYRcISaXcwCzQhn3bdCeM87cOI1VYkve2K8CTY\n3brOG4FXMi4+Ec2zZXtTGF22mFctGR3L8d5eqJibjRrx3L/M2vXpCcvEZjXJ6GWe\nQ3VVmAt1AgMBAAECggEABhCdNZtnKrdekcxXJHo/nw+WZO8kBZvSVZGXWX6D33wY\nVDOeZydxIAekip3oL3Y0UQLFCPFCvhrV/4DPccPo31sUSNfzP7HeN0IGNPsYS4AQ\nZAMTiEyOtHwH39d+Z309al1+GvisqdQhKU0suh1XH2FBgQa7c0cNrGu15fC5Epzn\n3vKH0gbvKxyNR8YfTG4i11aT7jJCda/nLsJRu7KR3/IENoD+OR7MwSAKYhf1ccp4\nFXn7zsEeJHg91NURwMl+H3egmBB6ruMLvi7W/vm4IsJrEHjUjarim0cJytfjMwJk\nfuiI2O3LOEDRgFApLGaXBX5Aakh47uz9tuKSyYrL7wKBgQDY70AUMfM8aY5zkK+e\nlDtI1xbMXHVRKjPCHtqvF2hbchlBRxHwZ7BAbDOsfpDvkS3olozn25tL3CO7rwAe\nSrHnz5QyM7KvKcTj5vNjhT7nGU4DyX9Hjz+cUkW7t25VfeVCht15ujxMuv/X/5ue\nEgVgncDHodt2+0rvMV0qRLnuGwKBgQDVvW40FGGaLC2NsuIeN8rdEA1Iiv4/5U8h\n1Lc0TScgHdN2bTOWgZe/Upw2xTrPp0Ggchzronz8F7WseQAxkaxEIoGzsmQ5B28w\ntAUmmkMSOWTMgJmjEmxqYyVzLGfFRNxOX5192BW4iTsbRKcIHeb5UPgvSxfBnmMP\nbuhQiQNFrwKBgQDUxu5qIIg8dCiGD59CApCXpGi3L+TeJG+58nt6i5IPR72fum7N\nB1boCXkxsr7ES/jkjm5MqKkM4jKmT0Llc0xGW+M2zmBv0J9PDmMh9Tq6f6Z2rnfK\nH6Y71LKTKZrt/dsVwqSPVez5Md3p5cukYnalynWhGY/ihx57uEZyRBC+iwKBgQDR\nPGvRl9IkNvMxL9ijdEKnPbuDNG3I5xYcLDxcetq+WfRUjnpd7+c5aAl8pH76IOXh\nx1QAaESqFBvJB3rlC5Hz8UO/QfdSzLBQoSoZrBHUmVLPz2SXesWfMAfNQ78iIlL4\ndimatBovWEgAXaiWDY+6qUUMJxrOc9rNlOjfTgFiCQKBgQCX1CFrGzkZDnTWnoJJ\nlQFo2kKkWvL4GYN+0IpokK5+FnkTkYX4ocQN7MeTZLrbtV77aesvmwt/vLTch/g1\nNluv5RXPXlNxFMP6XdKynhpcOWhz/LbP0c6yPAouzeOSEA0cKRzjHQV2G+9xQAAb\nN4HkMs/pWWc4cBMRrbV1f2S4pA==\n-----END PRIVATE KEY-----\n",
+  "client_email": "read-emails@uplifted-triode-168720.iam.gserviceaccount.com",
+  "client_id": "108330300669780484077",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/read-emails%40uplifted-triode-168720.iam.gserviceaccount.com"
+}

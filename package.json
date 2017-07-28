@@ -1,0 +1,23 @@
+{
+  "name": "npm_demo",
+  "version": "1.0.0",
+  "description": "I am demonstrating npm",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node",
+    "twitter",
+    "bot"
+  ],
+  "author": "Carlos Gongora",
+  "license": "ISC",
+  "dependencies": {
+    "gmail-api-sync": "^1.2.6",
+    "google-auth-library": "^0.10.0",
+    "googleapis": "^19.0.0",
+    "twit": "^2.2.5"
+  }
+}
