@@ -47,7 +47,7 @@ stream.on('direct_message', function (eventMsg) {
     return callbackHandler(msgID);
   }
 
-  else if (msg.search('#talkpay') !== -1) {
+  else if (msg.search('#zendere.operaciones') !== -1) {
   	console.log('Se encontro el hashtag talkpay en el mensaje recibido del usuario @' + screenName);
 	T.post('direct_messages/new', {
 	      screen_name: screenName,
